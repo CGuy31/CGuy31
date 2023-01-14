@@ -42,7 +42,7 @@ let config = {
     SPLAT_FORCE: 6000,
     SHADING: true,
     COLORFUL: true,
-    COLOR_UPDATE_SPEED: 1,
+    COLOR_UPDATE_SPEED: 2,
     PAUSED: false,
     BACK_COLOR: { r: 38, g: 43, b: 59 },
     TRANSPARENT: false,
